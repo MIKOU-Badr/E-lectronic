@@ -1,0 +1,28 @@
+li {
+    list-style: none;
+}
+
+.monCompte-navigation-link a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.monCompte-navigation-link {
+    padding: 0.5em;
+    width: 300px;
+    height: 50px;
+    margin-right: 10px;
+    box-shadow: none;
+    border: 1px solid #e5e5e5;
+    overflow: hidden;
+}
+
+.mon-Compte .monCompte {
+    display: inline;
+    margin: 0;
+}
+
+.mon-Compte p {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
